@@ -1,7 +1,3 @@
 <?php
-	kl
-	hjk	
-		gh
-		v
-				nk
+echo 'hello';
 ?>
